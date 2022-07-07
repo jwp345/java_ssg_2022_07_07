@@ -1,5 +1,6 @@
 package com.ll.exam;
 
+import java.awt.datatransfer.SystemFlavorMap;
 import java.util.Scanner;
 
 public class App {
@@ -7,6 +8,8 @@ public class App {
     System.out.println("== 명언 SSG ==");
 
     Scanner sc = new Scanner(System.in);
+
+    int wiseSayingLastId = 0;
 
     outer:
     while (true) {
@@ -19,7 +22,11 @@ public class App {
           String content = sc.nextLine().trim();
           System.out.printf("작가 : ");
           String author = sc.nextLine().trim();
-          System.out.println("1번 명언이 등록되었습니다.");
+          int id = ++wiseSayingLastId;
+
+          WiseSaying wiseSaying = new WiseSaying(id, content, author);
+          System.out.println(wiseSaying);
+          System.out.printf("%d번 명언이 등록되었습니다.\n", id);
           break;
         case "종료":
           break outer;
