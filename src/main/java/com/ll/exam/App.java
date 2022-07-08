@@ -1,6 +1,5 @@
 package com.ll.exam;
 
-import java.awt.datatransfer.SystemFlavorMap;
 import java.util.Scanner;
 
 public class App {
