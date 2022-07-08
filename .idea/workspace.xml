@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a633107-bca4-40bb-950b-39a5f81e331b" name="Changes" comment="등록 기능 추가">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ll/exam/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ll/exam/AppTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="com.ll.exam" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.테스트_실험">
+  <component name="RunManager" selected="JUnit.AppTest.표준출력을_리다이렉션하여_결과를_문자열로_받기">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.exam.Main" />
       <module name="java_ssg_2022_07_07" />
@@ -85,8 +84,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest.테스트_스캐너" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_ssg_2022_07_07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.exam" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.exam.AppTest" />
+      <option name="METHOD_NAME" value="테스트_스캐너" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.표준출력을_리다이렉션하여_결과를_문자열로_받기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_ssg_2022_07_07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.exam" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.exam.AppTest" />
+      <option name="METHOD_NAME" value="표준출력을_리다이렉션하여_결과를_문자열로_받기" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppTest.표준출력을_리다이렉션하여_결과를_문자열로_받기" />
+        <item itemvalue="JUnit.AppTest.테스트_스캐너" />
         <item itemvalue="JUnit.AppTest.테스트_실험" />
         <item itemvalue="Application.Main" />
       </list>
@@ -102,7 +135,7 @@
       <updated>1657172865978</updated>
       <workItem from="1657172869251" duration="5281000" />
       <workItem from="1657209728656" duration="95000" />
-      <workItem from="1657246207181" duration="2323000" />
+      <workItem from="1657246207181" duration="4133000" />
     </task>
     <task id="LOCAL-00001" summary="등록 기능 추가">
       <created>1657176163014</created>
