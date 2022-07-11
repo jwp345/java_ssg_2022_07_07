@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a633107-bca4-40bb-950b-39a5f81e331b" name="Changes" comment="등록 기능 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ll/exam/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ll/exam/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ll/exam/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ll/exam/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <recent name="com.ll.exam" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.Rq__getIntParam">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.exam.Main" />
       <module name="java_ssg_2022_07_07" />
@@ -137,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest.Rq__getIntParam" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AppTest.Rq__getIntParam" />
         <item itemvalue="JUnit.AppTest.표준출력을_리다이렉션하여_결과를_문자열로_받기" />
         <item itemvalue="JUnit.AppTest.테스트_실험" />
       </list>
@@ -155,7 +151,7 @@
       <workItem from="1657172869251" duration="5281000" />
       <workItem from="1657209728656" duration="95000" />
       <workItem from="1657246207181" duration="5411000" />
-      <workItem from="1657516008167" duration="914000" />
+      <workItem from="1657516008167" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="등록 기능 추가">
       <created>1657176163014</created>
