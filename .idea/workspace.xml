@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a633107-bca4-40bb-950b-39a5f81e331b" name="Changes" comment="등록 기능 추가">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +151,7 @@
       <workItem from="1657172869251" duration="5281000" />
       <workItem from="1657209728656" duration="95000" />
       <workItem from="1657246207181" duration="5411000" />
-      <workItem from="1657516008167" duration="1253000" />
+      <workItem from="1657516008167" duration="3841000" />
     </task>
     <task id="LOCAL-00001" summary="등록 기능 추가">
       <created>1657176163014</created>
