@@ -48,6 +48,7 @@ public class Rq {
 
     return Integer.parseInt(paramValue);
   }
+
   public String getPath() {
     return path;
   }
