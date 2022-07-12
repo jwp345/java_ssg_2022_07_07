@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a633107-bca4-40bb-950b-39a5f81e331b" name="Changes" comment="등록 기능 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/WiseSayingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/WiseSayingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ll/exam/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ll/exam/WiseSayingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ll/exam/WiseSayingRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data/1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Rq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ll/exam/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ll/exam/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ll/exam/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ll/exam/Rq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ll/exam/Rq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ll/exam/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ll/exam/AppTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +62,7 @@
       <recent name="com.ll.exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.AppTest.파일에_내용쓰기">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ll.exam.Main" />
       <module name="java_ssg_2022_07_07" />
@@ -102,6 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest.파일에_내용쓰기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_ssg_2022_07_07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.exam" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.exam.AppTest" />
+      <option name="METHOD_NAME" value="파일에_내용쓰기" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppTest.테스트_스캐너" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_ssg_2022_07_07" />
       <extension name="coverage">
@@ -136,6 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppTest.파일에_내용쓰기" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.AppTest.Rq__getIntParam" />
         <item itemvalue="JUnit.AppTest.표준출력을_리다이렉션하여_결과를_문자열로_받기" />
@@ -156,7 +179,7 @@
       <workItem from="1657246207181" duration="5411000" />
       <workItem from="1657516008167" duration="6472000" />
       <workItem from="1657586928162" duration="638000" />
-      <workItem from="1657591809273" duration="5801000" />
+      <workItem from="1657591809273" duration="6565000" />
     </task>
     <task id="LOCAL-00001" summary="등록 기능 추가">
       <created>1657176163014</created>
